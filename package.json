@@ -2,10 +2,19 @@
   "name": "matrix",
   "version": "1.0.0",
   "description": "",
+  "author": "Koray Gocmen",
+  "homepage": "https://github.com/KorayGocmen/node-matrix#readme",
+  "bugs": "https://github.com/KorayGocmen/node-matrix/issues",
+  "license": "MIT",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "matrix",
+    "dot multiplication"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  }
 }
